@@ -4,7 +4,7 @@
 
 ## how to install oscP5 library
 ![img01.png](img01.png)
-![img02.png](immg02.png)
+![img02.png](img02.png)
 
 ## send
 ```
